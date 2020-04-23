@@ -1,10 +1,12 @@
 # -README.md
-Proyecto de desarrollo en equipo usando github
+##### Proyecto de desarrollo en equipo usando github
 
-Integrantes :
+###### Integrantes :
 
--Alvarez Rosales Catalina Mariana
+- Alvarez Rosales Catalina Mariana  
 
--Sarmiento Rosas Jacqueline 
+- Sarmiento Rosas Jacqueline   
 
--Neri Lucero Evelyn de Jesus 
+- Neri Lucero Evelyn de Jesus 
+
+- González Espejel Miguel Angel  
